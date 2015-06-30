@@ -1,0 +1,64 @@
+<style type="text/css">
+
+
+h1	{
+  margin-left:.25in;
+  font-size:18.0pt;
+  color:blue;
+  font-family:"Times New Roman";
+  font-weight:bold;
+  display: block;
+  border-left:medium} 
+  
+  h2	{
+  margin-left:.25in;
+  font-size:16.0pt;
+  color:gray;
+  font-family:"Times New Roman";
+  font-weight:bold;}
+  
+  h3	{
+  margin-left:.25in;
+  font-size:14pt;
+  color:brown;
+  font-family:"Times New Roman";
+  font-weight:bold;}
+  
+  h4	{
+  margin-left:.25in;
+  font-size:12pt;
+  color:gray;
+  font-family:"Times New Roman";
+  font-weight:bold;}
+  
+  .title {font-family: "Times New Roman", Times, serif;
+  font-size: 14pt;
+  font-style: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-decoration: none;
+  text-align: left;
+  display: block;
+  background-color: #B1EDA8; }
+  
+   .img {padding:10px 50px 10px 10px; 
+  vertical-align:text-top; float:left;}
+  
+  .section1 {
+
+	margin-left:.5in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+
+.section2 {
+
+	margin-left:.75in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+
+
+.printurl { 
+display: none;}
+</style>
